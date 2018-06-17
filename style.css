@@ -1,0 +1,54 @@
+.form-grupo {
+    line-height: 17px;
+    padding: 1px 10px 10px 10px;
+    text-align: left;
+    background-color:
+}
+
+.div {
+    border: 5px solid;
+    text-align: left;
+}
+
+fieldset {
+    width: 46%;
+    margin: 0px auto;
+    background-color: wheat;
+}
+
+.tform-grupo {
+    text-align: left;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.formm {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(221, 230, 255);
+    position: relative;
+    top: 300px;
+}
+
+p {
+    font-family: Arial;
+}
+
+body {
+    background-color: white;
+}
+
+.botao {
+    position: relative;
+    padding: 12px;
+}
+
+.tbotao {
+    position: relative;
+    padding: 17px 10px 10px 1px;
+}

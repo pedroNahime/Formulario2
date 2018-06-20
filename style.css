@@ -2,7 +2,6 @@
     line-height: 17px;
     padding: 1px 10px 10px 10px;
     text-align: left;
-    background-color:
 }
 
 .div {
@@ -13,7 +12,7 @@
 fieldset {
     width: 46%;
     margin: 0px auto;
-    background-color: wheat;
+    background-color: #eaeaea;
 }
 
 .tform-grupo {
@@ -52,3 +51,29 @@ body {
     position: relative;
     padding: 17px 10px 10px 1px;
 }
+/*
+Colocado como exemplo
+Coloquei o width em 60%, normalmente fica em 100% e moldamos o tamanho por elementos de fora
+*/
+.btn-form-control{
+    display: block;
+    width: 60%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.btn-form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
+
+
